@@ -1,6 +1,6 @@
 # Netflix Tableau Project
 
-![Dashboard Image](C:\Users\Phanindra kumar\Desktop\Tableaunetflix.png)
+![Dashboard Image](C:\Users\Phanindra_kumar\Desktop\Tableaunetflix.png)
 
 ### Objective
 The objective of this project is to provide comprehensive insights and trends related to movies and TV shows on Netflix. By leveraging Tableau for data visualization, the project aims to present key information in a clear and concise manner, enabling viewers to quickly understand and analyze the data.
