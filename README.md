@@ -2,7 +2,7 @@
 
 ![Tableaunetflix](https://github.com/user-attachments/assets/8ff959b7-ddee-47f1-91d5-16ad47cd4e3e)
 
-
+### Tableau Public link - https://public.tableau.com/app/profile/phanindra.kumar.tirumalasetty/viz/NetflixTableau_17320510020810/Netflix?publish=yes
 
 ### Objective
 The objective of this project is to provide comprehensive insights and trends related to movies and TV shows on Netflix. By leveraging Tableau for data visualization, the project aims to present key information in a clear and concise manner, enabling viewers to quickly understand and analyze the data.
