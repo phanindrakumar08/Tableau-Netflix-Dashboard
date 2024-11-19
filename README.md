@@ -1,6 +1,8 @@
 # Netflix Tableau Project
 
-### Tableau Public link - https://public.tableau.com/app/profile/phanindra.kumar.tirumalasetty/viz/NetflixTableau_17320510020810/Netflix?publish=yes
+### Open Netflix Dashboard in Tableau Public
+
+[Open Netflix Dashboard in Tableau Public](https://public.tableau.com/app/profile/phanindra.kumar.tirumalasetty/viz/NetflixTableau_17320510020810/Netflix?publish=yes)
 
 ![Tableaunetflix](https://github.com/user-attachments/assets/8ff959b7-ddee-47f1-91d5-16ad47cd4e3e)
 
