@@ -1,6 +1,7 @@
 # Netflix Tableau Project
 
-![Tableaunetflix](https://github.com/user-attachments/assets/a3cc46eb-c1eb-4647-b03c-d1d6d8a54c60)
+![Tableaunetflix](https://github.com/user-attachments/assets/8ff959b7-ddee-47f1-91d5-16ad47cd4e3e)
+
 
 
 ### Objective
